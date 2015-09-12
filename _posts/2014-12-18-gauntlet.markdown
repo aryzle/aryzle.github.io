@@ -8,6 +8,6 @@ Gauntlet is a webapp built on Ruby on Rails and the Ziggeo api that allows anyon
 
 Build for HackUpstate - *Winnner of ZIGGEO API award*
 
-![gauntlet](/assets/gauntlet.jpg)
-![gauntlet1](/assets/gauntlet1.jpg)
-![gauntlet2](/assets/gauntlet2.jpg)
+![gauntlet](/assets/gauntlet.png)
+![gauntlet1](/assets/gauntlet1.png)
+![gauntlet2](/assets/gauntlet2.png)
